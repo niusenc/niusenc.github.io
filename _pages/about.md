@@ -1,13 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-XXX
+title: "About me"
+I am an Assistant Professor in the Department of Computer Science and Computer Engineering at the University of Wisconsin-La Crosse. I received my PhD in Computer Science in 2023 from Michigan Technological University, under the guidance of Dr. Bo Chen. My research focuses on addressing security and privacy issues in Embedded Systems, the Internet of Things (IoT), Cyber-Physical Systems (CPS), and Cloud Computing, among others.
 
 A data-driven personal website
 ======
