@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Michigan Technological University, 2023
+* M.S. in Electrical and Computer Engineering, University of Florida, 2018
+* B.E. in Electrical Engineering, Harbin Institute of Technology at Weihai, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2024 - present: Assistant Professor
+  * University of Wisconsin - La Crosse
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2024 - Aug. 2024: Research Assistant Professor
+  * Michigan Technological University
   
 Skills
 ======
