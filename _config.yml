@@ -25,11 +25,11 @@ author:
   avatar           : "niusen.PNG"
   name             : "Niusen Chen"
   pronouns         : # example: "he/his"  
-  bio              : "Assistant Professor, University of Wisconsin - La Crosse"
-  location         : "La Crosse, WI, USA"
-  employer         : "University of Wisconsin-La Crosse"
+  bio              : "Assistant Professor, University of Nevada, Reno"
+  location         : "Reno, NV, USA"
+  employer         : "University of Nevada, Reno"
   uri              : # URL
-  email            : "nchen@uwlax.edu" 
+  email            : "niusenc@unr.edu" 
 
   # Academic websites
   academia         : # URL
