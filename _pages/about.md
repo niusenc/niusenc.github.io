@@ -11,7 +11,7 @@ You can download my [CV here](/files/CV_Niusen.pdf).
 
 News
 ======
-
+I am currently seeking self-motivated Ph.D. students with a strong interest in cybersecurity research, particularly in the areas of flash memory security, system security, and autonomous vehicle security. If you are interested, please contact me via email and include your CV along with any supporting materials that highlight your academic background and research experience.
 
 <!--
 Getting started
