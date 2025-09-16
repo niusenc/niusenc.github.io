@@ -11,7 +11,7 @@ You can download my [CV here](/files/CV_Niusen.pdf).
 
 News
 ======
-XXX
+
 
 <!--
 Getting started
